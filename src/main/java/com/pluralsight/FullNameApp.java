@@ -45,5 +45,6 @@ public class FullNameApp {
             System.out.println((fullName[0]+" "+fullName[1]+". "+fullName[2]));
         }
         input.close();
+
     }
 }

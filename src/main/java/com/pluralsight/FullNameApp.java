@@ -44,6 +44,7 @@ public class FullNameApp {
         else if(fullName[3].isEmpty()) {
             System.out.println((fullName[0]+" "+fullName[1]+". "+fullName[2]));
         }
+        //done
         input.close();
 
     }
